@@ -1,0 +1,8 @@
+.success-container-wrapper{
+    background-image: url('./successBg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.success-story-container{
+    margin: 0 10%;
+}

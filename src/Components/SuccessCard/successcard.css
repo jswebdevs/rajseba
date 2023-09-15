@@ -1,0 +1,19 @@
+  .success-image img {
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  .success-details {
+    margin-top: 20px;
+  }
+  
+  .count-number {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

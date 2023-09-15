@@ -1,0 +1,35 @@
+.single-service-container{
+    margin: 0 10%;
+}
+
+.left-sidebar{
+    min-width: 30%;
+
+}
+
+.left-sidebar-link:hover{
+    background: #7E3817;
+    color: #fff;
+}
+.service-awareness{
+    border: 2px dotted #fff;
+    border-radius: 10px;
+
+}
+
+.accordion-heading{
+    color: #35c7df;
+}
+.accordion-icon{
+    color: #fff;
+    background: #35c7df;
+    border-radius: 50%;
+}
+/* Styles for small devices (up to 767px wide) */
+@media (max-width: 767px) {
+    /* Your CSS code for small devices goes here */
+    .left-sidebar-container {
+      display: none; /* Example: hide the left sidebar on small devices */
+    }
+    
+  }

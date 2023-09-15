@@ -1,0 +1,10 @@
+.submenu-item{
+    min-width: 250px;
+}
+@media (max-width: 767px) {
+    .main-menu-items{
+      display: inline-block;
+      min-width: 100px;
+      text-align: center;
+    }
+}

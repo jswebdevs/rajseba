@@ -1,0 +1,26 @@
+.service-list-container{
+    margin: 0 10%;
+}
+.singleServiceWrapper{
+    background-color: #2A2A2A;
+    min-height: 250px;
+    opacity: 1;
+    background-blend-mode: multiply ;
+}
+.singleServiceWrapper:hover{
+    opacity: .8;
+    background-color: #000;
+}
+.service-icon{
+    padding-top: 200px;
+}
+
+.service-icon img{
+    background-color: #98AFC7;
+    max-width: 64px;
+    padding: 15px;
+    border-radius: 50%;
+}
+.service-icon:hover img{
+    background-color: #FFF;
+}

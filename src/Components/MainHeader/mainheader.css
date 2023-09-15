@@ -1,0 +1,10 @@
+.mainHeader{
+    margin: 0 5% !important;
+}
+.logo-section img{
+    max-width: 180px;
+}
+.service-time-icon, .call-now-header-icon{
+    font-size: 30px;
+    color: black;
+}

@@ -1,0 +1,858 @@
+[
+
+    {
+        "serviceid": 101,
+        "serviceslug" : "ac-servicing",
+        "servicename": "এসি সার্ভিসিং",
+        "serviceimage" : "/img/services/ac-servicing.webp",
+        "serviceicon" : "/img/icons/icon-ac-service.webp",
+        "servicetitle" : "এসি সার্ভিসিং",
+        "serviceheadline" : "রাজসেবাতে আপনি পাবেন এসি সংক্রান্ত যাবতীয় সেবার সহজ, দ্রুত ও আধুনিক সমাধান। এসির বেসিক থেকে মাস্টার চেকআপ, সংযোগ, মেরামত ও যন্ত্রাংশ পরিবর্তন সহ যাবতীয় সমস্যার সমাধান আমরা আপনাকে দিবো। ঘরে বসে এসির সেবা পেতে বুকিং নিয়ে নিন আজই।",
+        "servicedescriptiontitle" : "এসির যেসকল সেবা রাজসেবায় পাবেনঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : 1001,
+                "accordiontitle" : "এসি চেকআপ",
+                "accordiondescription" : "একজন দক্ষ টেকনিশিয়ান আপনার এসির যেকোন সমস্যা নির্ণয় করবেন। যদি সাধারণ কোন ইস্যু থাকে, তবে তা সমাধান করা হবে।"
+            },
+            {
+                "accordionid" : 1002,
+                "accordiontitle" : "এসি বেসিক সার্ভিসিং",
+                "accordiondescription" : "এসির বেসিক চেকআপ, ফিল্টার পরিষ্কার করা, এসির পারফরম্যান্স যাচাই করা ও এসির সাধারণ সমস্যা সমাধান করা।"
+            },
+            {
+                "accordionid" : 1003,
+                "accordiontitle" : "এসি গ্যাস চার্জ",
+                "accordiondescription" : "পারফরম্যান্স যাচাই করা ও এসির গ্যাস চার্জ করা সহ বেসিক চেকআপ করা। যদি কোন লিকেজ থাকে তবে তা সারানো হবে। সাধারণত, এসির এই সমস্যা সাথে সাথেই সমাধান করা যায়। তবে, বড় সমস্যা হলে আপনাকে ১২ দিন অপেক্ষা করতে হবে।"
+            },
+            {
+                "accordionid" : 1004,
+                "accordiontitle" : "এসি মাস্টার সার্ভিস",
+                "accordiondescription" : "এসির মাস্টার সার্ভিসে আমরা আপনার এসির ঘরের ভিতরের অংশ ও বাইরের অংশ সম্পুর্ণরূপে পরিষ্কার করাসহ সাধারণ সমস্যাগুলো সমাধা করবো। যদি কোন যন্ত্রাংশে সমস্যা থাকে, সেক্ষেত্রে তার সার্ভিস চার্জ আলাদা হবে। সাধারণত এসির অবস্থা, অবস্থান, আকার ও সমস্যার ধরণ অনুযায়ী সার্ভিস চার্জ ভিন্ন হয়ে থাকে।"
+            },
+            {
+                "accordionid" : 1005,
+                "accordiontitle" : "এসির পানিপড়ার সমাধান",
+                "accordiondescription" : "সাধারণত, এসির পানির ফোটা পড়ার মুল কারণ হচ্ছে এসির সিস্টেমে কোথাও পানি আটকে থাকা। ফলে, পানি সঠিকভাবে পরিবহন না হতে পারায় সিস্টেমের চাপে পানি বাইরে বের হয়ে আসে। যদি অন্য কোন যন্ত্রাংশ নস্ট না হয়, তাহলে দক্ষ টেকনিশিয়ান আপনার এই সমস্যার সমাধান করে দিবেন খুব সহজেই। যদি অন্য কোন যন্ত্রাংশ নস্ট হয়, তবে সেক্ষেত্রে শর্তসাপেক্ষে রাজসেবা সে সমস্যার সমাধান করে দিবে।"
+            },
+            {
+                "accordionid" : 1006,
+                "accordiontitle" : "এসির স্থান পরিবর্তন",
+                "accordiondescription" : "আপনার ব্যবহৃত এসিটি একই ফ্লাটের ভিন্ন রুমে , অথবা একই ফ্লোরের ভিন্ন ফ্লাটে, একই ভবনের ভিন্ন ফ্লোরে অথবা এক ভবন থেকে অন্য ভবনে স্থান পরিবর্তনের জন্য কল করুন রাজসেবাকে। যদি সম্পূর্ন বাসা বদল করতে চান, সেক্ষেত্রে আপনি আমাদের বাসা-অফিস বদল সার্ভিসটি চেক করতে পারেন।"
+            },
+            {
+                "accordionid" : 1007,
+                "accordiontitle" : "এসির কম্প্রেসর ফিটিং(গ্যাস চার্জ সহ)",
+                "accordiondescription" : "আপনার এসির পুরাতন কম্প্রেসর পরিবর্তন করে নতুন কম্প্রেসর লাগানো হবে ও গ্যাস রিফিল করে দেয়া হবে।"
+            },
+            {
+                "accordionid" : 1008,
+                "accordiontitle" : "এসির জেটওয়াশ",
+                "accordiondescription" : "এসির ঘরের ভিতরের অংশ ও বাইরের অংশ খুলে, আধুনিক জেটমেশিনের সহায়তায় অত্যন্ত সুচারুরূপে কোন যন্ত্রাংশের ক্ষতি না করে সম্পূর্নরূপে পরিষ্কার করে দেয়া হবে।"
+            },
+            {
+                "accordionid" : 1009,
+                "accordiontitle" : "এসি বাতিল করা",
+                "accordiondescription" : "আপনার এসিটি যদি সম্পূর্ন অকেজো হয়ে যায় বা আগের এসিটি পরিবর্তন করে নতুন এসি লাগালে পুরাতন এসিটির সংযোগ বিচ্ছিন্ন করে এসিটি আমরা সম্পূর্নরুপে সরিয়ে দিবো।"
+            },
+            {
+                "accordionid" : 1010,
+                "accordiontitle" : "এসির ক্যাপাসিটর পরিবর্তন",
+                "accordiondescription" : "যদি আপনার এসির ক্যাপাসিটর নস্ট হয়ে যায় সেক্ষেত্রে এসির ক্যাপাসিটরটি পরিবর্তন করে নতুন ক্যাপাসিটর লাগিয়ে দেয়া হবে।"
+            },
+            {
+                "accordionid" : 1011,
+                "accordiontitle" : "এসির সার্কিট পরিবর্তন",
+                "accordiondescription" : "এসির যেকোন বর্তনীর পরিবর্তন করার প্রয়োজন হলে ঘরে বসেই পাবেন সার্কিট পরিবর্তনের সুযোগ।"
+            }
+        ],
+
+        "serviceawareness" : "দেশে বর্তমানে এয়ার কন্ডিশনার এর ব্যবহার যেমন অনেক বেড়েছে, একই সাথে বেড়েছে এর বিভিন্ন সমস্যা নিয়ে মানুষের মাথাব্যথাও। এসির যেকোন সমস্যা হলেই সাথে সাথে ব্যবস্থা নিন! নতুবা এসি যেকোন মুহুর্তে বিস্ফোরিত হতে পারে।",
+        "servicebanner" : "প্রতি ৬ মাস অন্তর কমপক্ষে একবার এসি চেকাপ করা আবশ্যক এবং বেসিক সার্ভিসিং করানো উচিত। নতুবা, ঘরের দূর্ঘটনা ঘটার সম্ভাবনা অনেক বৃদ্দি পায়।",
+        "serviceformtitle" : "এসি বিষয়ক সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "ac-servicing",
+        "servicepricing" :[
+            {
+                "pricingid" : 10001,
+                "pricingprice" : "৫০০",
+                "pricingtitle" : "এসি বেসিক ওয়াশ",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle" : "ইনডোরঃ",
+                        "pricingdescriptiondetails" : "এসি ইনডোর ফ্রন্ট কভার, এয়ার ফিল্টার পানি দিয়ে পরিষ্কার করা হবে।"
+                    },
+                    {
+                        "pricingdescriptiontitle" : "আউটডোরঃ",
+                        "pricingdescriptiondetails" : "আউটডোর ব্লোয়ার দিয়ে পরিষ্কার করা হবে। পানি ব্যবহার করা হয়না। ঠান্ডার পরিমাণ চেক করে দেখা হবে।"
+                    }
+                ]
+            },
+            {
+                "pricingid" : 10002,
+                "pricingprice" : "৮০০",
+                "pricingtitle" : "এসি জেট ওয়াশ",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle" : "ইনডোরঃ",
+                        "pricingdescriptiondetails" : "এসি ইনডোর ফ্রন্ট কভার, এয়ার ফিল্টার এগুলো জেট মেশিন দিয়ে পরিষ্কার করা হবে। সুইং ফ্লাপ, ইভাপরেটর এসব ও জেট মেশিনের সাহায্যে পরিষ্কার করা হয়।" 
+                    },
+                    {
+                        "pricingdescriptiontitle" : "আউটডোরঃ",
+                        "pricingdescriptiondetails" : "আউটডোর জেট মেশিনের মাধ্যমে পরিষ্কার করে দেয়া হবে। ঠান্ডার পরিমাণ চেক করা হবে।"
+                    }
+                ]
+            },
+            {
+                "pricingid" : 10003,
+                "pricingprice" : "১৫০০",
+                "pricingtitle" : "এসি ফোম ওয়াশ",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle" : "ইনডোরঃ",
+                        "pricingdescriptiondetails" : "এসি ইনডোর ফ্রন্ট কভার, এয়ার ফিল্টার, সুইং ফ্লাপ, ইভাপরেটর, ফোম দিয়ে পরিষ্কার করা হবে।"
+                    },
+                    {
+                        "pricingdescriptiontitle" : "আউটডোরঃ",
+                        "pricingdescriptiondetails" : "আউটডোর ফোমের মাধ্যমে পরিষ্কার করে দেয়া হবে।"
+                    }
+                ]
+            },
+            {
+                "pricingid" : 10004,
+                "pricingprice" : "২০০০",
+                "pricingtitle" : "এসি মাস্টার সার্ভিসিং",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle" : "ইনডোরঃ",
+                        "pricingdescriptiondetails" : "এসির ভিতরের সব পরিষ্কার করা সহ ছোটখাটো সব সমস্যার সমাধান করে দেয়া হবে।"
+                    },
+                    {
+                        "pricingdescriptiontitle" : "আউটডোরঃ",
+                        "pricingdescriptiondetails" : "আউটডোর ফোমের মাধ্যমে পরিষ্কার করে দেয়া হবে।"
+                    }
+                ]
+            }
+
+        ], 
+        "servicepricingawareness" : "এসির আকার ও অবস্থান ভেদে প্রাইসিং চার্জ কমবেশি হয়ে থাকে।"
+    },
+    
+
+    {
+        "serviceid": 102,
+        "serviceslug" : "plumbing",
+        "servicename": "পাইপ সার্ভিসিং",
+        "serviceimage" : "./img/services/plumbing.webp",
+        "serviceicon" : "./img/icons/Icon-plumbing-services.webp",
+        "servicetitle" : "পাইপ সার্ভিসিং",
+        "serviceheadline" : "রাজসেবা আপনাকে দিবে বাসা-অফিসের পাইপ(প্লাম্বিং) বিষয়ক যাবতীয় সেবা। রাজসেবা দক্ষ ও অভিজ্ঞ পাইপ মিস্ত্রী আপনাকে দিবে এক ঝামেলামুক্ত, পরিষ্কারপরিচ্ছন্ন বাসস্থান। তবে আর দেরি কেন?",
+        "servicedescriptiontitle" : "পাইপ বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : 1012,
+                "accordiontitle" : "নতুন বাথরুম সংযোগ",
+                "accordiondescription": "বাসা-অফিসে নতুন বাথরুম সংযোগ, পাইপলাইন বসানো ও যথাযথ বর্জ্যনিষ্কাশনের ব্যবস্থা করার জন্য রাজসেবার সাথে যোগাযোগ করুন।"
+            },
+            {
+                "accordionid" : 1013,
+                "accordiontitle" : "আটকে যাওয়া পানি সরানো",
+                "accordiondescription": "কিচেন, বাথরুম ও বেসিনের কোথাও যদি পানি আটকে যায় তবে সেই পানি সরানোর জন্য আমাদের রয়েছে দক্ষ লোক।"
+            },
+            {
+                "accordionid" : 1014,
+                "accordiontitle" : "পানির ট্যাপ সংযোগ ও মেরামত",
+                "accordiondescription": "বাসা-অফিসের পানির কল যদি নস্ট হয়ে যায়, ভেঙ্গে যায় অথবা নতুন কল সংযোগের প্রয়োজন হয় তবে আমাদের রয়েছে দক্ষ পাইপের মিস্ত্রী।"
+            },
+            {
+                "accordionid" : 1015,
+                "accordiontitle" : "বেসিনের সমস্যার সমাধান",
+                "accordiondescription": "বেসিন সংযোগ, মেরামত ও আটকে যাওয়া পানি সরান আমাদের মাধ্যমে।"
+            },
+            {
+                "accordionid" : 1016,
+                "accordiontitle" : "কমোডের জ্যাম সরানো",
+                "accordiondescription": "বাসা-অফিসের বাথরুমের কমোডে জ্যাম লাগলে সেই জ্যাম সরানো হয়।"
+            },
+            {
+                "accordionid" : 1017,
+                "accordiontitle" : "বাথরুমের পাইপ পরিষ্কার করা",
+                "accordiondescription": "দূর্গন্ধযুক্ত, ময়লা বাথরুমের পানির পাইপ পরিষ্কার করা হয়।"
+            },
+            {
+                "accordionid" : 1018,
+                "accordiontitle" : "পাইপের মেরামত ও সংযোগ",
+                "accordiondescription": "বাসা-অফিসের কোন পাইপ ফেটে গেলে তা মেরামত করা হয়। নতুন পাইপের সংযোগ দেয়া হয়।"
+            },
+            {
+                "accordionid" : 1019,
+                "accordiontitle" : "সম্পূর্ণ ভবনে পাইপ সংযোগ ও নবায়ন",
+                "accordiondescription": "বাসা বা অফিসের নতুন ভবন তৈরীর সময় সম্পূর্ণ বাসায় পাইপ সংযোগ দেয়া হয়।"
+            },
+            {
+                "accordionid" : 1020,
+                "accordiontitle" : "ড্রেইন পরিষ্কার করা",
+                "accordiondescription": "বাসা-অফিস বা রাস্তাঘাটের ড্রেইন পরিষ্কার করার জন্য আমাদের রয়েছে আধুনিক যন্ত্রপাতি ও দক্ষ টিম।"
+            },
+            {
+                "accordionid" : 1021,
+                "accordiontitle" : "লিক খুজা ও মেরামত",
+                "accordiondescription": "বাথরুমের পাইপের লিক খুজা ও মেরামত করা হয়।"
+            },
+            {
+                "accordionid" : 1022,
+                "accordiontitle" : "বাণিজ্যিক পরিসরে পাইপের কাজ",
+                "accordiondescription": "বাণিজ্যিক পরিসরে রাস্তাঘাটের বিভিন্ন পাইপের কাজ করা হয়।"
+            },
+            {
+                "accordionid" : 1023,
+                "accordiontitle" : "ওয়াটার হিটার সংযোগ ও মেরামত",
+                "accordiondescription": "বাথরুমে ট্যাংকসহ ও ট্যাংকবিহীন ওয়াটার হিটার সংযোগ ও মেরামত করা হয়।"
+            },
+            {
+                "accordionid" : 1024,
+                "accordiontitle" : "জরুরি পাইপের কাজ",
+                "accordiondescription": "জরুরি ভিত্তিতে পাইপের কাজ করার জন্য রাজসেবার রয়েছে ইমার্জেন্সি হটলাইন। কল করুন ০১৮১৩৩৩৩৩৭৩ নাম্বারে।"
+            }
+        ],
+        "serviceawareness" : "বাসাবাড়ির পাইপ অত্যন্ত গুরুত্বপূর্ন বিষয়। ভুলভাবে পাইপ স্থাপন করা হলে অথবা নিম্নমানের সংযোগ প্রদান করা হলে তা থেকে অত্যন্ত দূর্গন্ধ ছড়াতে পারে।",
+        "servicebanner" : "জরুরি কিংবা সাধারণযেকোন মুহুর্তে পাইপ বিষয়ক আপনার যেকোন সমস্যার সমাধানে রাজসেবা আপনার পাশে আছে সর্বদা। আজই যোগাযোগ করুন।",
+        "serviceformtitle" : "পাইপ সার্ভিসিং বিষয়ক আমাদের সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "plumbing",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+    },
+
+
+    {
+        "serviceid": 103,
+        "serviceslug" : "electrical-service",
+        "servicename": "ইলেকট্রিক্যাল সার্ভিস",
+        "serviceimage" : "./img/services/Electrical-Service.webp",
+        "serviceicon" : "./img/icons/service-electrical-service.png",
+        "servicetitle" : "ইলেকট্রিক্যাল সার্ভিস",
+        "serviceheadline" : "বাসা বা অফিসের ইলেকট্রিক্যাল কাজগুলো অত্যন্ত বিপজ্জ্বনক আর ঝুকিপূর্ণ। এসকল ঝুকিপুর্ণ ঝামেলা নির্বিঘ্নে সমাধানের জন্য রাজসেবা আপনাদের পাশেই আছে।",
+        "servicedescriptiontitle" : "ইলেকট্রিক্যাল বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : 1025,
+                "accordiontitle" : "সার্কিট বোর্ড বসানো",
+                "accordiondescription": "আপনার বাসা-অফিসের বিভিন্ন পয়েন্টে দেয়ালের ভিতরে বা বাইরে সার্কিট বোর্ড বসানোর কাজ করা হয়।"
+            },
+            {
+                "accordionid" : 1026,
+                "accordiontitle" : "সুইচ বোর্ড বসানো",
+                "accordiondescription": "ভবনের বিভিন্ন স্থানে সুইচ বোর্ড বসানো হয়।"
+            },
+            {
+                "accordionid" : 1027,
+                "accordiontitle" : "বৈদ্যুতিক তার সংযোগ",
+                "accordiondescription": "মেইন বোর্ড থেকে বিভিন্ন সংযোগ বোর্ডে তার টেনে সংযোগ প্রদান করা হয়।"
+            },
+            {
+                "accordionid" : 1028,
+                "accordiontitle" : "সংযোগ বোর্ড স্থাপন",
+                "accordiondescription": "ভবনের বিভিন্ন স্থানে সংযোগ বোর্ড স্থাপন করা ও তাতে তার সংযোগ প্রদান করা হয়।"
+            },
+            {
+                "accordionid" : 1029,
+                "accordiontitle" : "নতুন ভবনের তার সংযোগ",
+                "accordiondescription": "নির্মানাধীন বা সদ্য সম্পন্ন নতুন ভবনের ছাদ ও দেয়ালের ভিতর দিয়ে তার টানা, বোর্ড বসানো ও সংযোগ প্রদান করা হয়।"
+            },
+            {
+                "accordionid" : 1030,
+                "accordiontitle" : "মেইন বোর্ড বসানো",
+                "accordiondescription": "আপনার বাসা-অফিসের মেইন সার্কিট বোর্ড বসান আমাদের মাধ্যমে।"
+            }
+        ],
+        "serviceawareness" : "যেকোন ইলেকট্রিক্যাল এর কাজ অত্যন্ত ঝুকিপূর্ণ ও দূর্ঘটনাপ্রবণ। সঠিক জ্ঞান, প্রযুক্তি ও যন্ত্রপাতি না থাকলে এগুলো কাজ নিজে না করা ই ভালো। আপনাদের যেকোন প্রয়োজনে রাজসেবার সহায়তা নিন।",
+        "servicebanner" : "সততা, দক্ষতা ও অভিজ্ঞতাই আমাদের সাফল্যের মূল চাবিকাঠি। আপনার ভবনের ইলেকট্রিকাল কাজ করুন রাজসেবার সাহায্যে। সুস্থ থাকুন, দূর্ঘটনা থেকে বাচুন।",
+        "serviceformtitle" : "ইলেকট্রিক্যাল সার্ভিস নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "104",
+        "serviceslug" : "sewing-machine-repair",
+        "servicename": "সেলাই মেশিন মেরামত",
+        "serviceicon": "./img/icons/Sewing-Machine-Service.webp",
+        "serviceimage": "./img/services/Sewing-Machine.webp",
+        "servicetitle" : "সেলাই মেশিন মেরামত",
+        "serviceheadline" : "সেলাই মেশিন একটি ভারী ও দামী যন্ত্র। এটির সঠিক পরিচর্যা ও নিয়মিত সার্ভিসিং করানো উচিত। আমাদের কাছে পাবেন সকল ধরনের সেলাই মেশিন মেরামতের সেবা। তবে আর দেরী কেন? আজই যোগাযোগ করুন রাজসেবার সাথে।",
+        "servicedescriptiontitle" : "সেলাই মেশিন বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : 1031,
+                "accordiontitle" : "বৈদ্যুতিক সেলাই মেশিন মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : 1032,
+                "accordiontitle" : "হাতচালিত সেলাই মেশিন মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : 1033,
+                "accordiontitle" : "পাচালিত সেলাই মেশিন মেরামত",
+                "accordiondescription" : ""
+            },
+            {
+                "accordionid": 1034,
+                "accordiontitle" : "অভারলকড সেলাই মেশিন মেরামত",
+                "accordiondescription" : ""
+            },
+            {
+                "accordionid": 1035,
+                "accordiontitle" : "সেলাই মেশিন ওয়েলিং করা",
+                "accordiondescription" : ""
+            },
+            {
+                "accordionid": 1036,
+                "accordiontitle" : "সেলাই মেশিন ফিটিং করা",
+                "accordiondescription" : ""
+            }
+        ],
+        "serviceawareness" : "সেলাই মেশিন প্রতিনিয়ত যত্নে না রাখলে ভিতরের সূক্ষ্ম জিনিসপত্র সব নস্ট হয়ে যেতে পারে। তাই সেলাই মেশিনের নিয়মিত পরিচর্যা করা উচিত। আপনার সেলাই মেশিনের যত্নে রাজসেবা আপনার পাশে আছে।",
+        "servicebanner" : "রাজশাহীর বাসাবাড়ি ও দোকানের সেলাই মেশিন মেরামতে আমাদের রয়েছে দক্ষ ও অভিজ্ঞ হোম সার্ভিস। তবে আর দেরী কেন! আজই যোগাযোগ করুন রাজসেবার সাথে।",
+        "serviceformtitle" : "সেলাই মেশিন সম্পর্কিত যেকোন সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+    },
+
+
+    {
+        "serviceid": "105",
+        "serviceslug" : "home-appliance-repair",
+        "servicename": "বৈদ্যুতিক পণ্য মেরামত",
+        "servicetitle" : "বৈদ্যুতিক পণ্য মেরামত",
+        "serviceicon" : "./img/icons/Icon-Appliance-service.webp",
+        "serviceimage" : "./img/services/Home-appliance-service.webp",
+        "serviceheadline" : "বাসা-অফিসে ব্যবহৃত নিত্যদিনের বিভিন্ন ইলেকট্রিক যন্ত্রপাতি যেমন টিভি, ফ্রিজ, ওয়াশিং মেশিন, সিলিং ফ্যান, মনিটর, ওভেন সহ সকল ধরণের দৈনন্দিন জিনিসপত্র মেরামত করুন খুব সহজেই।",
+        "servicedescriptiontitle" : "বৈদ্যুতিক পণ্য মেরামতে আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1037",
+                "accordiontitle" : "টিভি/মনিটর মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1038",
+                "accordiontitle" : "ফ্রিজ মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1038",
+                "accordiontitle" : "ওভেন মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1039",
+                "accordiontitle" : "ওয়াশিং মেশিন মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1040",
+                "accordiontitle" : "সিলিং ফ্যান মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1041",
+                "accordiontitle" : "বৈদ্যুতিক বাতি মেরামত",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "বৈদ্যুতিক পণ্য অনেক সেন্সিটিভ ও দামী হয়ে থাকে। যথাযথ প্রযুক্তি ও টেকনিক্যাল জ্ঞান না থাকলে এসব যন্ত্রপাতি মেরামতের সময় পুরোপুরিভাবে নস্ট হয়ে যেতে পারে ও দুর্ঘটনাও ঘটতে পারে। তাই আপনার বৈদ্যুতিক পণ্যের সুরক্ষার্থে রাজসেবার সহায়তা নিন।",
+        "servicebanner" : "বৈদ্যুতিক যন্ত্রপাতির সুরক্ষার্থে ভালোমানের বর্তনী ও ফিউজ ব্যবহার করা উচিত। নতুবা ডিভাইসটি নস্ট হতে পারে আবার বিস্ফোরিত হয়ে দুর্ঘটনা ঘটতে পারে।",
+        "serviceformtitle" : "বৈদ্যুতিক পণ্য মেরামতের যেকোন সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "106",
+        "serviceslug" : "shifting-services",
+        "servicename": "বাসা-অফিস বদল",
+        "servicetitle" : "বাসা-অফিস বদল",
+        "serviceicon" : "./img/icons/icon-shifting-service.webp",
+        "serviceimage" : "./img/services/shifting.webp",
+        "serviceheadline" : "বাসা-অফিস বদল করা একটি সময়সাপেক্ষ, পরিশ্রম ও ঝামেলার কাজ। এসব কাজে নিজের গুরুত্বপূর্ণ সময় নস্ট না করে আপনার ঝামেলাগুলো রাজসেবাকে দিয়ে দিন। ঝামেলা আপনার, সমাধানের দ্বায়িত্ব রাজসেবার।",
+        "servicedescriptiontitle" : "বাসা-অফিস বদলে আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1042",
+                "accordiontitle" : "সম্পূর্ন বাসা বা অফিসের জিনিসপত্র স্থানান্তর",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1043",
+                "accordiontitle" : "আসবাবপত্র প্যাকেজিং",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1044",
+                "accordiontitle" : "আসবাবপত্র স্থানান্তর",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1045",
+                "accordiontitle" : "আসবাবপত্র জায়গামত বসানো",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1046",
+                "accordiontitle" : "বৈদ্যুতিক পণ্য প্যাকেজিং",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1047",
+                "accordiontitle" : "বৈদ্যুতিক পণ্য স্থানান্তর",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1048",
+                "accordiontitle" : "বৈদ্যুতিক পণ্য পুনঃসংযোগ",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "বাসা-অফিস শিফটিং এর কাজে নিজের সময় ও শক্তির অপচয় না করে রাজসেবার সাথে যোগাযোগ করুন। আপনার এক কলেই আমরাই আপনার বাসা-অফিস পরিবর্তন করে দিবো।",
+        "servicebanner" : "রাজশাহীতে বাসা-অফিস বদল করার সেবাদানকারী একমাত্র অনলাইন প্রতিষ্ঠান রাজসেবা। আমাদের সেবা নিতে চাইলে, কল করুন আজই।",
+        "serviceformtitle" : "বাসা-অফিস বদল করতে চাইলে নীচের ফর্মটি পূরণ করুন।",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "107",
+        "serviceslug" : "cleaning-services",
+        "servicename": "বাসা-অফিস পরিষ্কার",
+        "servicetitle" : "বাসা-অফিস পরিষ্কার",
+        "serviceicon" : "./img/icons/icon-cleaning-service.webp",
+        "serviceimage" : "./img/services/cleaning.webp",
+        "serviceheadline" : "আপনার বাসা ও অফিসের জমে থাকা ধুলাবালি ও ময়লা আপনাকে অশান্তি দেয় এবং মাঝে মাঝে তা অসুখের কারণ হয়ে দাঁড়ায়। আপনার বাসা-অফিস পরিষ্কার করুন আমাদের মাধ্যমে। আমাদের দক্ষ কর্মী আপনার বাসা ও অফিস পরিষ্কার করবে নিখুতভাবে ও আপনাকে দিবে এক স্বাস্থ্যকর ও আরামদায়ক পরিবেশ।",
+        "servicedescriptiontitle" : "বাসা-অফিস পরিষ্কার বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1049",
+                "accordiontitle" : "বাসা-অফিস সম্পূর্নরুপে পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1050",
+                "accordiontitle" : "মেঝে(ফ্লোর) পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1051",
+                "accordiontitle" : "জানালা পরিষ্কার করা (ভিতরে ও বাইরে)",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1052",
+                "accordiontitle" : "ডাইনিং/ড্রয়িং কমন স্পেস পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1053",
+                "accordiontitle" : "বাথরুম ও টয়লেট পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1054",
+                "accordiontitle" : "রান্নাঘর পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1055",
+                "accordiontitle" : "সোফা ও চেয়ার পরিষ্কার কয়রা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1056",
+                "accordiontitle" : "কার্পেট পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1057",
+                "accordiontitle" : "কীটনাশক প্রয়োগ ও পোকামাকড় দমন",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "আপনার বাসা-অফিস আপাতদৃষ্টিতে পরিষ্কার মনে হলেও তাতে থাকতে পারে অসংখ্য রোগজীবাণু ও ধূলিকণা। তাছাড়া, জানালার বাইরের দিক পরিষ্কার করা বেশ ঝুকিপূর্ণ। এসকল কাজেই রাজসেবার সহায়তা নিন ও ঝুকিঝামেলামুক্ত থাকুন",
+        "servicebanner" : "রাজসেবার মাধ্যমে আপনার বাসা-অফিস রাখুন সুস্বাস্থ্যকর, বসবাস উপযোগী ও আরামদায়ক। আপনাদের সন্তুষ্টিই আমাদের লক্ষ্য।",
+        "serviceformtitle" : "বাসা-অফিস পরিষ্কারের জন্য রাজসেবার সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "108",
+        "serviceslug" : "painting-services",
+        "servicename": "বাসা-অফিস রং করা",
+        "servicetitle" : "বাসা-অফিস রং করা",
+        "serviceicon" : "./img/icons/Icon-painting.webp",
+        "serviceimage" : "./img/services/painting.webp",
+        "serviceheadline" : "বাসা হোক বা অফিস, যেকোন ভবন সুন্দর দেখাটা যেমন জরুরী, তেমন গুরুত্বপূর্ণও। রং করাটা খুব কঠিন কোন কাজ নয়। কিন্তু সঠিকভাবে ও নিখুত রং করা যেমন কঠিন, তেমন কস্টসাধ্য। আপনার বাসা-অফিসের ভিতরের ও বাইরের দেয়াল, ছাদ বা মেঝে রং করান আমাদের দক্ষ রংমিস্ত্রী দ্বারা।",
+        "servicedescriptiontitle" : "বাসা-অফিস রং করায় আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1058",
+                "accordiontitle" : "দেয়াল রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1059",
+                "accordiontitle" : "মেঝে রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1060",
+                "accordiontitle" : "সিলিং রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1061",
+                "accordiontitle" : "দরজাজানালা রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1062",
+                "accordiontitle" : "সিংগেল কোট রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1063",
+                "accordiontitle" : "ডবল কোট রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1064",
+                "accordiontitle" : "ডিজাইন করে রং করা",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "ভালোমানের রং ও দক্ষ মিস্ত্রী ছাড়া অল্পদিনেই বাসা-অফিসের রং নস্ট হয়ে যায়। রাজসেবা আপনার বাসা-অফিসের রং ও রঙের কাজ উভয়েরই গুণগত মান নিশ্চিত করে থাকে। তাই রং করুন রাজসেবার মাধ্যমেই।",
+        "servicebanner" : "সকল রঙের কাজে আমরা দক্ষ মিস্ত্রী ও উন্নতমানের ও ব্রান্ডের রং ব্যবহার করে থাকি। তাই, আমাদের কাজ টিকে থাকে দীর্ঘ্যদিন।",
+        "serviceformtitle" : "বাসা-অফিস রং করতে চাইলে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "109",
+        "serviceslug" : "renovation-services",
+        "servicename": "বাসা-অফিস নবায়ন",
+        "servicetitle" : "বাসা-অফিস নবায়ন",
+        "serviceicon" : "./img/icons/icons-renovation-service.webp",
+        "serviceimage" : "./img/services/Renovation.webp",
+        "serviceheadline" : "বাসা-অফিসের পুরাতন ডিজাইন কিংবা অগোছালো অবস্থা নিয়ে বিরক্ত? নতুন করে ঢেলে সাজানো প্রয়োজন? তাহলে আজই রাজসেবার সাথে যোগাযোগ করুন।",
+        "servicedescriptiontitle" : "বাসা-অফিস নবায়নে আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1065",
+                "accordiontitle" : "ঘর ও ঘরের বাইরের অংশ নতুন করে রং করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1066",
+                "accordiontitle" : "নতুন করে সাজানো",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1067",
+                "accordiontitle" : "কার্ডবোর্ড, প্লাইউড দিয়ে নতুন পার্টিশন তৈরী করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1068",
+                "accordiontitle" : "পুরাতন পার্টিশন ভেঙ্গে ফেলা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1069",
+                "accordiontitle" : "আধুনিক আসবাবপত্র ব্যবহারের সাজেশন করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1070",
+                "accordiontitle" : "সুন্দর কিন্তু স্বল্প পরিসরে রুমকে সাজানো",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1071",
+                "accordiontitle" : "সিলিংয়ে কাঠ, বোর্ড অথবা প্লাইউড ব্যবহার করে সুন্দরভাবে সাজানো",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1072",
+                "accordiontitle" : "কিচেন ইন্টেরিয়র সাজানো, কিচেন কেবিনেট তৈরী",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1073",
+                "accordiontitle" : "লিভিং রুম ইন্টেরিয়র সাজানো, কেবিনেট তৈরী করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1074",
+                "accordiontitle" : "ড্রয়িং/ডাইনিং স্পেস সাজানো",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "বাসা-অফিসের ডিজাইন বদলে নতুন করে ডিজাইন করলে বা সাজালে অনেকগুলো সুবিধা পাওয়া যায়। যেমনঃ বাসা-অফিস পরিষ্কার করা হয়ে যায়, নতুন ডিজাইন সাধারণত জায়গা বাচায়, ফলে আপনার চলাফেরাতে আরো সুবিধা হবে ইত্যাদি। তবে আর দেরী কেন? আজই যোগাযোগ করুন রাজসেবাতে।",
+        "servicebanner" : "রাজসেবার মাধ্যমে আপনার বাসা-অফিসকে নতুন করে সাজান। আপনার বাসাকে সুন্দর, আকর্ষণীয়, মনোমুগ্ধকর, স্বাস্থ্যকর ও আরামদায়ক করে তোলার দ্বায়িত্ব আমাদের।",
+        "serviceformtitle" : "বাসা-অফিস নবায়ন করতে চাইলে নীচের ফর্মটি পূরণ করুন।",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "110",
+        "serviceslug" : "pc-servicing",
+        "servicename": "কম্পিউটার সার্ভিসিং",
+        "servicetitle" : "কম্পিউটার সার্ভিসিং",
+        "serviceicon" : "./img/icons/icon-pc-service.webp",
+        "serviceimage" : "./img/services/pc-servicing.webp",
+        "serviceheadline" : "কম্পিউটার একটি অত্যন্ত গুরুত্বপূর্ণ ডিভাইস। আপনার প্রতিষ্ঠানের কিংবা ব্যক্তিগত সকল তথ্য কম্পিউটারেই থাকে। সেটি নস্ট হয়ে গেলে খুবই বিপদে পড়তে হয়। সেজন্য রাজসেবা নিয়ে আসলো আপনার জন্য কম্পিউটার হোম সার্ভিসিং।",
+        "servicedescriptiontitle" : "কম্পিউটার সার্ভিসিং বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1075",
+                "accordiontitle" : "পিসি ক্লিনিং বা পরিষ্কার করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1076",
+                "accordiontitle" : "পিসি সার্কিট বোর্ড রিপেয়ার",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1077",
+                "accordiontitle" : "পিসির যন্ত্রাংশ পরিবর্তন",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1078",
+                "accordiontitle" : "মনিটর রিপেয়ার",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1079",
+                "accordiontitle" : "সফটওয়্যার ইনস্টল করে দেয়া",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1080",
+                "accordiontitle" : "পিসির নতুন করে উইন্ডোজ সেটাপ করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1081",
+                "accordiontitle" : "স্টার্টআপ সমস্যার সমাধান করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1082",
+                "accordiontitle" : "ডুয়েল বুট চালু থাকলে তার সমাধান করা",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1083",
+                "accordiontitle" : "বিভিন্ন প্রিমিয়াম সফটওয়ার কিনতে সহায়তা করা",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "কম্পিউটার যদি বাসায় বসেই ঠিক করা যায় তবে আর টানাহিচড়া করবেন কেন? রাজসেবার মাধ্যমে ন্যায্যমূল্যে আপনার কম্পিউটার সার্ভিসিং করুন ঝামেলামুক্তভাবে, আপনার বাসায় বসেই।",
+        "servicebanner" : "আমাদের কাছ থেকে কোন যন্ত্রাংশ রিপেয়ার, পরিবর্তন বা কিনে থাকলে তাতে পাবেন ব্রান্ড ও সময়ের নিশ্চয়তা। তবে আর দেরী কেন! আজই যোগাযোগ করুন রাজসেবাতে।",
+        "serviceformtitle" : "কম্পিউটার সার্ভিসিং এর জন্য নীচের ফর্মটি পূরণ করুন।",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    },
+
+
+    {
+        "serviceid": "111",
+        "serviceslug" : "water-purifier-installation-repair",
+        "servicename": "ওয়াটার পিউরিফায়ার সংযোগ ও মেরামত",
+        "servicetitle" : "ওয়াটার পিউরিফায়ার সংযোগ ও মেরামত",
+        "serviceicon" : "./img/icons/water-purify.webp",
+        "serviceimage" : "./img/services/water-purifier.webp",
+        "serviceheadline" : "ওয়াটার পিউরিফায়ার মেশিন বা পানি পরিষ্কারক যন্ত্রের মাধ্যমে আমরা খুব সহজেই পানি বিশুদ্ধ করতে পারি। আর, রাজশাহীবাসির জন্য পরিষ্কার পানি অনেকটা সোনার হরিণ পাওয়ার মত ই। রাজসেবা আপনাকে এই ব্যাপারে দিচ্ছে একটি সম্পূর্ণ সমাধান।",
+        "servicedescriptiontitle" : "ওয়াটার পিউরিফায়িং মেশিন বিষয়ক আমাদের সেবাসমূহঃ",
+        "servicedescription" : [
+            {
+                "accordionid" : "1084",
+                "accordiontitle" : "ভবনের ছাদে ওয়াটার পিউরিফায়িং মেশিন স্থাপন",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1085",
+                "accordiontitle" : "ফ্লাটের ভিতর ওয়াটার পিউরিফায়িং মেশিন স্থাপন",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1086",
+                "accordiontitle" : "ওয়াটার পিউরিফায়িং মেশিন পরিবহন",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1087",
+                "accordiontitle" : "ওয়াটার পিউরিফায়িং মেশিন মেরামত",
+                "accordiondescription": ""
+            },
+            {
+                "accordionid" : "1088",
+                "accordiontitle" : "ওয়াটার পিউরিফায়িং মেশিন বিক্রয়",
+                "accordiondescription": ""
+            }
+        ],
+        "serviceawareness" : "একবার চিন্তা করুন, কোন ধরণের ফুটানো কিংবা ঝামেলা ছাড়াই ঘরে বসেই পাচ্ছেন আয়রনমুক্ত, পরিষ্কার ও শতভাগ নিরাপদ পানযোগ্য পানি। তাহলে আর দেরী কেন? আজই সাশ্রয়ীমূল্যে আপনার বাসায় ওয়াটার পিউরিফায়িং মেশিন সংযোগ করুন।",
+        "servicebanner" : "আপনি যদি প্রচুর পরিমাণে আয়রনযুক্ত পানি খান তবে আপনার দেহে আয়রনের পরিমাণ বেড়ে বিভিন্ন অসুখের কারণ হতে পারে, যেমন হেমক্রমাটোসিস, হেমকোলাইটিস ইত্যাদি। এছাড়াও, আয়রনযুক্ত পানি পান করলে চোখে কালো দাগ পড়তে পারে এবং পানির স্বাদ একটু পরিবর্তিত হতে পারে।",
+        "serviceformtitle" : "ওয়াটার পিউরিফায়ার সংযোগ সংক্রান্ত যেকোন সেবা নিতে নীচের ফর্মটি পূরণ করুনঃ",
+        "serviceform" : "",
+        "servicepricing" : [
+            {
+                "pricingid" : "",
+                "pricingprice" : "",
+                "pricingtitle" : "",
+                "pricingdescription" : [
+                    {
+                        "pricingdescriptiontitle": "",
+                        "pricingdescriptiondetails" : ""
+                    }
+                ]
+            }
+        ],
+        "servicepricingawareness" : ""
+
+    }
+
+]

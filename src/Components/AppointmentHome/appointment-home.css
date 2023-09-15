@@ -1,0 +1,12 @@
+.appointment-home-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10%;
+  }
+
+  .appointment-image img {
+    border-radius: 50px;
+  }
+  
+  

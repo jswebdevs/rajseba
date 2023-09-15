@@ -1,38 +1,35 @@
-.App {
-  text-align: center;
+.text-blue-personal {
+    color: #7FA7D7;
+}
+.global-blue-bg{
+    background-color: #7FA7D7;
+}
+.secondary-bg{
+    background-color: #7E3817;
+}
+.hover-global-blue-bg:hover{
+    background-color: #7FA7D7;
+}
+.text-secondary-color{
+    color: #7E3817;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.text-ashtype{
+    color: #777777;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ador-regular{
+    font-family: ador-regular, sans-serif;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ador-bold{
+    font-family: ador-bold, sans-serif;
 }
-
-.App-link {
-  color: #61dafb;
+.ador-italic{
+    font-family: ador-italic, sans-serif;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ador-extralight{
+    font-family: ador-extralight, sans-serif;
+}
+*{
+    font-family: ador-regular, sans-serif;
 }

@@ -1,0 +1,40 @@
+.banner-container {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+.heading {
+    margin-bottom: 20px;
+  }
+  
+.telephone-container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+.telephone-image {
+    margin: 0 auto;
+    width: 100px;
+    height: auto;
+  }
+
+.apps-container {
+    margin-top: 30px;
+  }
+  
+.apps-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+.app-images {
+    display: flex;
+    justify-content: center;
+  }
+  
+.app-image {
+    width: 120px;
+    height: auto;
+    margin: 0 10px;
+  }
+  

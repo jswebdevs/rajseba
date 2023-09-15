@@ -1,0 +1,17 @@
+.review-container-wrapper{
+    background-image: url('./reviewBg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.review-container {
+    margin: 0 10%;
+  }
+.reviewer-image {
+    text-align: center;
+    max-width: 30%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.reviewer-image img{
+    border-radius: 50%;
+}

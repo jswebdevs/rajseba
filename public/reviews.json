@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "review-title": "চমৎকার সার্ভিস!",
+      "title-bg" : "98afc7",
+      "name": "শিরিন আহমেদ",
+      "designation": "অধ্যাপিকা",
+      "institution": "রাজশাহী বিশ্ববিদ্যালয়",
+      "image": "./img/reviews/ShirinIslamProfRU.webp",
+      "review": "আমি ‘রাজসেবা’র মাধ্যমে আমার বাসার তিনটি এসি পরিষ্কার করাই। তারা জেট ওয়াশের মাধ্যমে এসিগুলো অত্যন্ত দক্ষতার সাথে মেঝে বা দেয়ালে কোন পানি না ফেলে ও যন্ত্রপাতির ক্ষতি না করে সুন্দরভাবে পরিষ্কার করে। রাজসেবার উন্নতি কামনা করি।",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "review-title" : "ফাস্ট সার্ভিস!",
+      "title-bg" : "7E3817",
+      "name": "ডা. বুলবুল জামান",
+      "designation": "অধ্যাপক",
+      "institution": "রাজশাহী মেডিকেল কলেজ",
+      "image": "./img/reviews/DrBulbulZamanProfRu.webp",
+      "review": "বেসিনের কল নস্ট হয়ায় সন্ধ্যার পর ‘রাজসেবা’কে কল করলে তারা অত্যন্ত দ্রুততার সাথে বাসায় আসে ও কলটি ঠিক করে দেয়। তাদের এই দ্রুত ও ২৪ ঘন্টা চালু সার্ভিস আমার খুবই ভালো লেগেছে। তাদের এই দ্রুততর সেবা সর্বদা চালু থাকুক।",
+      "rating": 5.0
+    },
+    {
+        "id": 3,
+        "review-title" : "Much Recommended!",
+        "title-bg" : "98afc7",
+        "name": "মিজানুর রহমান",
+        "designation": "জেলা প্রাথমিক শিক্ষা অফিসার",
+        "institution": "রাজশাহী",
+        "image": "./img/reviews/MizanurRahmanDistrictEduOfficer.webp",
+        "review": "Being very busy I was worried when I needed to shift my house. Then I called ‘RajSeba’. They were swift and efficient. Their packaging was amazing. They moved all my furniture and household goods within 6 hours. Highly recommended.",
+        "rating": 5.0
+    }
+]
+  

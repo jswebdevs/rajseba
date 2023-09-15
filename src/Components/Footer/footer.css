@@ -1,0 +1,27 @@
+.footer-black{
+    background-color: #181818;
+}
+.footer-container{
+    margin: 0 10%;
+}
+.footer-list li{
+    list-style-type: disc;
+}
+.copyright-container-wrapper{
+    background-color: #111111;
+}
+.copyright-container{
+    margin: 0 10%;
+}
+.facebook-icon:hover{
+    background-color: #1A78F3;
+}
+.instagram-icon:hover{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+.tiktok-icon:hover{
+    background-color: #111111;
+}
+.youtube-icon:hover{
+    background-color: #FC0101;
+}

@@ -1,0 +1,14 @@
+.about-us-container{
+    margin: 0 10%;
+}
+.about-us-listing ul li{
+   background-image: url(./listibg-bg.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+.about-us-listing ul li p{
+    margin-left: 30px;
+}
+.about-us-partner-carousel{
+    background-color: #F7F7F7;
+}

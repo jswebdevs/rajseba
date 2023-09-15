@@ -1,0 +1,92 @@
+/* Add your custom styles for the dynamic slider here */
+
+.dynamic-slider-wrapper {
+    width: 100%;
+    position: relative;
+  }
+  
+  .slider-slide img {
+    width: 100%;
+  }
+  
+  .slide-icons {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .slide-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 5px;
+    text-align: center;
+    animation: slideIconAnimation 250ms ease-in;
+  }
+  
+  @keyframes slideIconAnimation {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .slide-icons img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .slide-icons p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+  }
+  
+  .slide-heading {
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+    animation: slideHeadingAnimation 250ms ease-in;
+  }
+  
+  @keyframes slideHeadingAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .appointment-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #98afc7;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    animation: appointmentLinkAnimation 250ms ease-in;
+  }
+  
+  @keyframes appointmentLinkAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

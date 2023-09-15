@@ -1,0 +1,16 @@
+/* ToTopButton.css */
+.to-top-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .to-top-button img{
+    max-width: 80px;
+  }
+  .to-top-button.visible {
+    display: block;
+  }
+  

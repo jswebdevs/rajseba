@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +14,84 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'ador-bold';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Italic Bold */
+@font-face {
+  font-family: 'ador-italic-bold';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Bold-Italic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Extralight */
+@font-face {
+  font-family: 'ador-extralight';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ ExtraLight.ttf') format('truetype');
+  font-weight: 200; /* Use appropriate font weight value */
+  font-style: normal;
+}
+
+/* Extralight Italic */
+@font-face {
+  font-family: 'ador-extralight-italic';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ ExtraLight-Italic.ttf') format('truetype');
+  font-weight: 200; /* Use appropriate font weight value */
+  font-style: italic;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'ador-italic';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'ador-regular';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Italic Light */
+@font-face {
+  font-family: 'ador-light-italic';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Light-Italic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Light */
+@font-face {
+  font-family: 'ador-light';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ Light.ttf') format('truetype');
+  font-weight: 300; /* Use appropriate font weight value */
+  font-style: normal;
+}
+
+/* Semibold */
+@font-face {
+  font-family: 'ador-semibold';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ SemiBold.ttf') format('truetype');
+  font-weight: 600; /* Use appropriate font weight value */
+  font-style: normal;
+}
+
+/* Semibold Italic */
+@font-face {
+  font-family: 'ador-semibold-italic';
+  src: url('./fonts/LiAdorNoirritMultiweight/Unicode/Li\ Ador\ Noirrit\ SemiBold-Italic.ttf') format('truetype');
+  font-weight: 600; /* Use appropriate font weight value */
+  font-style: italic;
 }

@@ -1,0 +1,60 @@
+.pricing-container-wrapper{
+    background: #000;
+    background-position: contain;
+}
+
+.pricing-container{
+    margin: 0 10%;
+}
+
+.pricing-slider {
+    margin-top: 30px;
+  }
+  
+  .slick-slide {
+    padding: 10px;
+  }
+  .pricing-card-container{
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 30px;
+  }
+  .pricing-card {
+    background-color: white;
+    border: 1px dashed #000;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    min-height: 400px;
+    position: relative;
+  }
+ 
+  .pricing-card button {
+    background-color: #98afc7;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .pricing-card button:hover {
+    background-color: #7e3817;
+    color: white;
+  }
+
+  .pricing-card .condition {
+    background-color: #98afc7;
+    width: 100%;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+
+  }
+  .pricing-card .condition:hover{
+    background-color: #7e3817;
+  }

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "imagePath": "./img/mainslider/slider-main.webp",
+      "caption1": "রাজশাহীতে আমরাই প্রথম",
+      "caption2": "আমরাই সেরা"
+      
+
+    },
+    {
+      "id": 2,
+      "imagePath": "./img/mainslider/slider-ac.webp",
+      "caption1": "আমরা আছি সব সময়",
+      "caption2": "\"ঘরের কাজে, আপনার পাশে\""
+
+    },
+    {
+      "id": 3,
+      "imagePath": "./img/mainslider/slider-electrical.webp",
+      "caption1": "আমরাই দিচ্ছি",
+      "caption2": "\"২৪x৭ সেবা\""
+    }
+  ]
+  

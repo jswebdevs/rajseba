@@ -1,0 +1,13 @@
+.upperHeader-wrapper{
+    background-color: #222222;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: ador-regular, sans-serif;
+}
+.upperHeader{
+    margin: 0 10% !important;
+}
+
+.book-online{
+    margin-right: 60px;
+}
